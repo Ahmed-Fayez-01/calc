@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "733025330061",
+    "project_id": "my-wallet-f2eb2",
+    "storage_bucket": "my-wallet-f2eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733025330061:android:e1c99ab0446d4c7b8a53c4",
+        "android_client_info": {
+          "package_name": "com.example.haf_calc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733025330061-i0um140taj6h85vp81p4sp1i691837je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haf_calc",
+            "certificate_hash": "3cd5d4922ff597297adfe229a3872787df972921"
+          }
+        },
+        {
+          "client_id": "733025330061-gdqqoh58tv5e34fm52nbqcgdgnq1o5j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmv9sbkrC8XcpkDa7ATiXRP2o_A7dSFhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733025330061-gdqqoh58tv5e34fm52nbqcgdgnq1o5j4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733025330061-jggd6k8r3ajja4cnddu0jrefek2rakd0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myWallet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733025330061:android:f9584661b185a51b8a53c4",
+        "android_client_info": {
+          "package_name": "com.example.my_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733025330061-gdqqoh58tv5e34fm52nbqcgdgnq1o5j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmv9sbkrC8XcpkDa7ATiXRP2o_A7dSFhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733025330061-gdqqoh58tv5e34fm52nbqcgdgnq1o5j4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733025330061-jggd6k8r3ajja4cnddu0jrefek2rakd0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
